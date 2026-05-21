@@ -1,4 +1,4 @@
-# phpMyFAQ 4.0
+# phpMyFAQ 4.0 (mod)
 
 ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/thorsten/phpMyFAQ)
 ![GitHub](https://img.shields.io/github/license/thorsten/phpMyFAQ)
